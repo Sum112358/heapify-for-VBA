@@ -1,4 +1,4 @@
-# Heapify_for_VBA
+# Heapify-for-VBA
 Class for Heap Type in VBA
 
 # INSTALLATION 
