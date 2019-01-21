@@ -1,5 +1,5 @@
 # Heapify-for-VBA
-Class for Heap Type in VBA
+Heap Type Object for VBA
 
 # INSTALLATION 
 Create a new Module Class and copy the code form heapq.vba into it
